@@ -9,11 +9,14 @@ Syntax:
 condition ? expression 1: expression 2;
 */
 
+/*
 var big;
 var a=13;
 var b=8;
 /* we can write additional things
 big= a<b?a:b;
 */
-//big =a<b?a*5:b*10;
+//big =a<b?a*5:b*10;*/
+/*
 a>b ? document.write("a is big"):document.write("b is big ");
+*/
