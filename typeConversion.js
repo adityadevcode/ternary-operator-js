@@ -28,6 +28,7 @@ document.write(false+ 12);//12 output false 0
 //not an number
 //in js datatype integer lo float, numbers, parseint
 
+/*
 
 var x = 89
 document.write(typeof(x))
@@ -47,7 +48,7 @@ document.write(s)
 
 // number ani format cheyaledu but string ni manamu "" peti format cheyachu
 
-
+*/
 
 
 
